@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My work as a Linguist at the [Department of Linguistics and Baltic Languages](http://www.phil.muni.cz/jazyk/).
+I work as a linguist at the [Department of Linguistics and Baltic Languages](http://www.phil.muni.cz/jazyk/).
 
 ### More Information
 
