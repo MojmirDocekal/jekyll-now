@@ -8,7 +8,7 @@ I work as a linguist at the [Department of Linguistics and Baltic Languages](htt
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This site is run by the [Jekyll Now](https://github.com/barryclark/jekyll-now) static site generator.
 
 ### Contact me
 
