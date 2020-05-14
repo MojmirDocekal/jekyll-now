@@ -1,3 +1,9 @@
+---
+layout: post
+mathjax: false
+title: How about some BibTeX?
+---
+
 @inproceedings{592844,
 	author = {Dočekal, Mojmír},
 	address = {Brno},
